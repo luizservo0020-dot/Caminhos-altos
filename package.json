@@ -1,0 +1,27 @@
+{
+  "name": "caminhos-altos",
+  "version": "0.1.0",
+  "description": "Explorando rotas incríveis por caminhos e trilhas em altitudes elevadas - Um espaço de mensagens cristãs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node src/index.js",
+    "lint": "eslint src/",
+    "build": "echo 'Build process'"
+  },
+  "keywords": [
+    "caminhos",
+    "trilhas",
+    "altitude",
+    "exploração",
+    "cristão",
+    "mensagens"
+  ],
+  "author": "Luiz Servo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  },
+  "dependencies": {}
+}
